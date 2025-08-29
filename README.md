@@ -16,13 +16,12 @@ Il progetto è stato realizzato come parte di un elaborato per offrire supporto 
 
 ## 📁 Contenuto della repository
 
-- `agent.zip` – Esportazione completa del progetto Dialogflow, contenente:
+- `SO_Assistant.zip` – Esportazione completa del progetto Dialogflow, contenente:
   - Intents (oltre 45)
   - Entities personalizzate
   - Event handlers (WELCOME, FALLBACK)
   - Contexts automatici per i follow-up Yes/No
 - `README.md` – Questo file di descrizione
-- `screenshots/` –  cartella contenente immagini esemplificative
 
 ## 💬 Integrazione Telegram
 
@@ -36,7 +35,7 @@ L’agente è stato collegato a Telegram tramite **BotFather**. Per testarlo:
 
 ## 📚 Collegamento alla tesi
 
-Per dettagli teorici, progettuali e tecnici sul chatbot, è possibile consultare il documento completo della tesi disponibile a richiesta o nell'apposita sezione della repository.
+Per dettagli teorici, progettuali e tecnici sul chatbot, è possibile consultare il documento completo dell'elaborato disponibile a richiesta all'indirizzo mail dylanepro@gmail.com.
 
 ## ✅ Requisiti minimi
 
