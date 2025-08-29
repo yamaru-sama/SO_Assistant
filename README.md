@@ -1,5 +1,5 @@
 <p align="center">
-<img width="800" height="800" alt="Image" src=https://github.com/yamaru-sama/SO_Assistant/blob/main/logo.png" />
+<img width="800" height="800" alt="Image" src="https://github.com/yamaru-sama/SO_Assistant/blob/main/logo.png" />
 </p>
 
 # SO_Assistant – Chatbot per Sistemi Operativi
